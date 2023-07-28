@@ -23,6 +23,8 @@ public class Arithmetics {
         // so we have to use
         b *= 2.5;
         System.out.println(b);
+        System.out.println("Making a change");
+
 
 
     }
